@@ -1,0 +1,5 @@
+results/
+model_RNN_02.h5
+test_done.csv
+train_done.csv
+validation_done.csv
